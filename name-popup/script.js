@@ -13,3 +13,11 @@ bodyElement.style.backgroundColor = bodyColor;
 
 
 
+var h1Color = prompt("geef de text een kleur");
+
+var h1Element = document.getElementsByTagName("h1")[0];
+
+h1Element.style.color = h1Color;
+
+
+
