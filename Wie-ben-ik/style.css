@@ -1,4 +1,10 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .h1 {
     background-color: black;
     color: white;
 }
+
