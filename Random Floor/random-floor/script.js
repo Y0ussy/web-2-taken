@@ -9,13 +9,13 @@ console.log('geheel getal afgerond ' + geheelGetalAfgerond)
 
 let randomGetal = Math.random();
 // Math.random() maakt een willekeurig getal tusen 0 en 1 tot 17 cijfers na de komma
-console.log('random nummer tussen 0 en 225 ' + randomGetal)
+console.log('random nummer tussen 0 en 250 ' + randomGetal)
 
 // om een willekeurige waarde te verkrijgen tussen 0 en een maximum waarde
 // moet je Math.random() vermenigvuldigen met de maximum waarde
 // dus bv om een getal tussen 0 en 10 te krijgen, doe je Math.random() * 10
-let randomGetal10 = Math.random() * 225;
-console.log('random nummer tussen 0 en 225 ' +  randomGetal10)
+let randomGetal10 = Math.random() * 250;
+console.log('random nummer tussen 0 en 250 ' +  randomGetal10)
 
 // hier gaan we het random getal tussen 0 en 10 afronden
 let randomGetal10Afgerond = Math.floor(randomGetal10);
