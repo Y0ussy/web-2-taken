@@ -1,39 +1,121 @@
 /** pas de kleuren aan naar eigen smaak, zorg gwn voor contrast & eenduidig thema **/
-body {
+body{
   background-color: rgb(168, 168, 168);
   font-family: 'Poppins', sans-serif;
   
 }
 
-h1 {
+h1{
   text-align: center;
+  font-size: 40px;
+
 }
 
-p {
+p{
   text-align: center;
+
 }
 
 /** onderstaande styling mag gerust verwijderd worden **/
 
-.menu a:visited {
+.menu a:visited{
   color: rgb(0, 0, 0);
   background-color: inherit;
+
 }
 
-ul.menu {
+ul.menu{
   display: flex;
   color: black;
   justify-content: space-evenly;
   list-style: none;
   font-size: 25px;
   flex-flow: wrap;
+
+}
+
+hr{
+  border-top: 2px solid rgb(0, 0, 0);
+
+}
+
+.centreer{
+  display: flex;
+
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  text-align: center;
   
 }
 
-hr {
-  border-top: 2px solid rgb(0, 0, 0);
+.poster{
+  font-size: 20px;
+  text-decoration: underline;
+
 }
 
-.centreer {
-  display: flex;
+.alien{
+  height: 600px; 
+  width: 400px;
+  border: 7px solid rgb(219, 219, 219);
+
 }
+
+.brussel{
+  height: 600px; 
+  width: 400px;
+  border: 7px solid rgb(219, 219, 219);
+
+}
+
+.popo{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  position: relative;
+  top: 50px;
+
+}
+
+.design{
+  font-size: 20px;
+  text-decoration: underline;
+ 
+}
+
+.snkr{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 30px;
+  
+}
+
+.sneaker{
+  border: 7px solid rgb(219, 219, 219);
+}
+
+.myself{
+  height: 600px; 
+  width: 400px;
+  border: 7px solid rgb(219, 219, 219);
+  border-radius: 20%;
+
+}
+
+.me {
+  display: flex;
+  justify-content: center;
+  filter: grayscale(10%);
+  
+  
+}
+
+
+
+
+
+
