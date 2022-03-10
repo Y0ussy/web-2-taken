@@ -111,8 +111,16 @@ h2{
   justify-content: center;
   filter: grayscale(10%);
   
+}
+
+.mani{
+  font-size: 20px;
+  text-decoration: underline;
+  position: relative;
+  top: 80px;
   
 }
+
 
 
 
