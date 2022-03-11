@@ -61,6 +61,8 @@ h2{
   height: 600px; 
   width: 400px;
   border: 7px solid rgb(219, 219, 219);
+  position: relative;
+  left: 100px;
 
 }
 
@@ -68,6 +70,8 @@ h2{
   height: 600px; 
   width: 400px;
   border: 7px solid rgb(219, 219, 219);
+  position: relative;
+  right: 100px;
 
 }
 
