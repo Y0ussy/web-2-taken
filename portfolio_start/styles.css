@@ -121,6 +121,19 @@ h2{
   
 }
 
+.he{
+  display: flex;
+  justify-content: center;
+}
+
+.heh{
+  position: relative;
+  top: 120px;
+  border: 7px solid rgb(219, 219, 219);
+  height: 600px; 
+  width: 400px;
+  
+}
 
 
 
