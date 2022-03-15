@@ -140,18 +140,37 @@ h2{
 }
 
 .hello{
+  position: relative;
+  top: 30px;
   display: flex;
   justify-content: center;
   justify-content: space-evenly;
 }
 
+video{
+  border: 7px solid rgb(219, 219, 219);
+  height: 340px;
+}
 
+.baby{
+  height: 290px;
+  width: 400px;
+  position: relative;
+  right: 100px;
+  
+  top: 120px;
+  border: 7px solid rgb(219, 219, 219);
+  
+}
 
+.he{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
 
+}
 
-
-
-
-
-
-
+.heh{
+  position: relative;
+  left: 100px;
+}
