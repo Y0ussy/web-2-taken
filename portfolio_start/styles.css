@@ -113,7 +113,7 @@ h2{
 .me {
   display: flex;
   justify-content: center;
-  filter: grayscale(10%);
+  filter: grayscale(90%);
   
 }
 
