@@ -113,7 +113,7 @@ h2{
 .me {
   display: flex;
   justify-content: center;
-  filter: grayscale(90%);
+  filter: grayscale(70%);
   
 }
 
@@ -138,6 +138,17 @@ h2{
   width: 400px;
   
 }
+
+.hello{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+
+
+
+
 
 
 
