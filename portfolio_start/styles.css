@@ -2,7 +2,6 @@
 body{
   background-color: rgb(168, 168, 168);
   font-family: 'Poppins', sans-serif;
-  
 }
 
 h1{
@@ -196,12 +195,16 @@ video{
 }
 
 .gti{
+  position: relative;
+  left: 140px;
   width: 200px;
   height: 200px;
 }
 
 
 .pala{
+  position: relative;
+  right: 140px;
   width: 200px;
   height: 200px;
 }
