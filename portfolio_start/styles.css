@@ -174,3 +174,34 @@ video{
   position: relative;
   left: 100px;
 }
+
+.laka{
+  display: flex;
+  justify-content: center;
+}
+
+.ka{
+  
+  position: relative;
+  top: 130px;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  position: relative;
+  top: 60px;
+ 
+}
+
+.gti{
+  width: 200px;
+  height: 200px;
+}
+
+
+.pala{
+  width: 200px;
+  height: 200px;
+}
